@@ -1,5 +1,7 @@
 # Yuki Kuwashima 自分の名前・作品が載っているページを集めました
 
+## 名前が載っているページたち
+
 Apps
 https://apps.apple.com/jp/developer/yuki-kuwashima/id1588828747
 
@@ -20,3 +22,37 @@ https://www.facebook.com/anytokyo/posts/%E6%9C%AD%E5%B9%8C%E5%9B%BD%E9%9A%9B%E8%
 
 Ars Electronica 2023
 https://ars.electronica.art/who-owns-the-truth/de/data-art-science/
+https://www.youtube.com/watch?v=4YYHjoOBvEY
+
+https://hack.nikkei.com/blog/spatial20240627/
+
+日本の学生デベロッパたち - Apple
+https://apps.apple.com/jp/story/id1681707216?l=en-US
+
+A&T ソーシャルプリズム展
+https://at-socialprism.studio.site/
+
+２０１０年度 作文コンクール受賞
+https://www.jwsny.org/pdfs/hoshukodayori/2010/201033.pdf
+
+## アプリたち
+
+Sensible Paster+DeepLで洋書読みまくり人生を（Mac限定）
+https://note.com/liveroflifeonme/n/n3754c4858474
+
+https://www.calling2-blog.com/sensible-paster/
+
+https://macsoft.jp/sensible-paster/
+
+https://note.com/liveroflifeonme/n/n9a6101675562
+
+https://www.youtube.com/watch?v=4D4yEqX6P4I
+
+https://enago.hatenablog.com/entry/2022/03/07/100110
+
+https://minkara.carview.co.jp/userid/3525105/blog/48819721/
+
+https://www.youtube.com/watch?v=YO5JXqPWstI
+
+https://macsoft.jp/tag/%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%89/
+
